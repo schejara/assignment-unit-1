@@ -1,9 +1,5 @@
 /* Add a background color to the header element */
-body{
-    display:flex;
-    flex-flow:column;
-    height:100%;
-}
+
 
 header{    
     background-color: rgba(27, 132, 135, 0.624);
